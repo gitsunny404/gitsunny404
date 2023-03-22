@@ -1,10 +1,9 @@
-[![Masterhead](https://link)](https://gitsunny404.github.io)
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <h3 align="center">A passionate MEAN Stack developer who is moving to be Full Stack Developer very soon.</h3>
 
-<img src="" align="right" width="400" alt="profile image">
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" align="right" width="400" alt="profile image"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsunny404&label=Profile%20views&color=0e75b6&style=flat" alt="gitsunny404" /> </p>
 
