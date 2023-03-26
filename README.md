@@ -80,8 +80,9 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitsunny404&show_icons=true&locale=en&layout=compact" alt="gitsunny404" /></p>
-
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitsunny404&show_icons=true&locale=en&layout=compact" alt="gitsunny404" width="400" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitsunny404&show_icons=true&locale=en" alt="gitsunny404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitsunny404&" alt="gitsunny404" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitsunny404&" alt="gitsunny404" /></p> -->
