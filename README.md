@@ -3,7 +3,7 @@
 <!-- https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif -->
 
 <h1 align="center">Hi 👋, This is Sunny Kumar</h1>
-<h3 align="center">Code architect, problem solver, and digital visionary - full stack developer who is evloving day by day.</h3>
+<h3 align="center">Code architect, problem solver, and digital visionary - full stack developer who is evolving day by day.</h3>
 
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" align="right" width="400" alt="profile image" style="border-radius: 50%;">
 
